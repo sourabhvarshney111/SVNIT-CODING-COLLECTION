@@ -1,4 +1,4 @@
-### SVNIT-CODING-COLLECTION
+# SVNIT-CODING-COLLECTION
 As of 23-10-2019, 09:35 am
 
 Introduction
@@ -14,11 +14,12 @@ Table of contents
 =================
 
 <!--ts-->
-      * [Introduction](#introduction)
-      * [Table of contents](#table-of-contents)
-      * [Competitive](#competitive)
-      * [Development](#development)
-      * [Security/Blockchain)(#security/blockchain)
+      * Introduction
+      * Table of contents
+      * Competitive
+      * Development
+      * Security/Blockchain
+      
 <!--te-->
 
 
@@ -36,6 +37,6 @@ Security/Blockchain
 =================
 This folder is purely dedicated to the concept of blockchain, what is blockchain and how it is implemented can also be read in the introduction inside this folder.
 
-Your Task
+Guidelines
 =================
-You can contribute to this repository and share your valuable knowledge.
+You can contribute to this repository and share your valuable knowledge. 
